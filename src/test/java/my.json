@@ -1,0 +1,58 @@
+{
+  "request": {
+    "time": 1674976598,
+    "action": "search",
+    "cacheMaxAge": 60,
+    "timeElapsed": "41.322 ms"
+  },
+  "response": {
+    "success": true,
+    "result_count": 1,
+    "more": false,
+    "next_start": null,
+    "total": 1,
+    "remaining": 0,
+    "result": [
+      {
+        "id": "3184",
+        "owner": {
+          "type": "user",
+          "id": "9663",
+          "name": "I6yy",
+          "badge": "",
+          "url": "https://polymart.org/user/i6yy.9663?utm_medium=api&utm_source=api-search&utm_campaign=api-search&utm_term=GroupStats"
+        },
+        "team": null,
+        "price": "0.00",
+        "currency": "USD",
+        "title": "BedWars1058-GroupStats",
+        "subtitle": "Addon for bedwars1058 for sorting statistics into arena-groups",
+        "version": "v6",
+        "creationTime": "1670094899",
+        "lastUpdateTime": "1672322000",
+        "supportedLanguages": null,
+        "donationLink": null,
+        "downloads": "50",
+        "keepPercent": "100.00",
+        "patreonMinimumPledge": null,
+        "patreonCurrency": "usd",
+        "totalDownloads": "50",
+        "sale": null,
+        "saleUntil": null,
+        "averageReview": "3.0000",
+        "reviewCount": "2",
+        "supportedServerSoftware": "Bukkit, Spigot, and Paper",
+        "supportedMinecraftVersions": "1.17, 1.16, 1.15, 1.14, 1.13, 1.12, 1.11, 1.10, 1.9, 1.8",
+        "sourceCodeLink": "https://github.com/Ixf1nity/BedWars1058-GroupStats",
+        "headerBackgroundColor": null,
+        "themeColorLight": "26282e",
+        "themeColorDark": "26282e",
+        "thumbnailURL": "https://s3.amazonaws.com/polymart.product.thumbnails/default/3184",
+        "headerURL": "https://s3.amazonaws.com/polymart.product.headerimages/default/3184",
+        "url": "https://polymart.org/resource/bedwars1058-groupstats.3184?utm_medium=api&utm_source=api-search&utm_campaign=api-search&utm_term=GroupStats",
+        "canDownload": true
+      }
+    ],
+    "extra": null
+  }
+}
